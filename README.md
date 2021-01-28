@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SLyin/SLyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SLyin/SLyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->大家好，我很高兴来到GitHub。
--->我是SLyin,来自中国河北，喜欢听音乐，弹琴，打游戏(σﾟ∀ﾟ)σ
--->自认为他人好而做的事情  并不一定正确
+我是SLyin,来自中国河北，喜欢听音乐，弹琴，打游戏(σﾟ∀ﾟ)σ
+自认为他人好而做的事情  并不一定正确
